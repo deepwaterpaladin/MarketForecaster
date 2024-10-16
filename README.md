@@ -8,4 +8,4 @@ In this challenge, we ask you to build a model using real-world data derived fro
 
 Jane Street has spent decades relentlessly innovating on all aspects of our trading, and building machine learning models to aid our decision-making. These models help us actively trade thousands of financial products each day across 200+ trading venues around the world. While this challenge only presents a tiny fraction of the quantitative problems Jane Streeters work on daily, we are very interested in seeing how the Kaggle community will approach this challenge, and in engaging with you about your solutions to the problem!
 
-(Link to Competition Page)[https://kaggle.com/competitions/jane-street-real-time-market-data-forecasting]
+[Link to Competition Page](https://kaggle.com/competitions/jane-street-real-time-market-data-forecasting)
