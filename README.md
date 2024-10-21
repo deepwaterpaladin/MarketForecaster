@@ -10,6 +10,8 @@ Repository for the Jane Street Real-Time Market Data Forecasting competition hos
 ## TODO
 
 1. Understand training/testing data
+    - data exploration
+    - data diagram
 1. Complete rough timeline doc (sprint planning)
 
 ## Code Requirements
