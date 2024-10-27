@@ -5,11 +5,11 @@
 - 30 days
 - Three 10 day sprints
 
-### 1.1 (Research, quantitative finance)
+### 1.1 (Research, data exploration)
 
 - 
 
-### 1.2 (Research, coding)
+### 1.2 (Research, coding & quantitative finance)
 
 - 
 
