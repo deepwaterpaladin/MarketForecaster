@@ -7,11 +7,11 @@
 
 ### 1.1 (Research, data exploration)
 
-- 
+- done.
 
 ### 1.2 (Research, coding & quantitative finance)
 
-- 
+- done.
 
 ### 1.3 (Prototyping)
 
