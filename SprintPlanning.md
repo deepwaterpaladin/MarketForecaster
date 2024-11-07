@@ -2,7 +2,7 @@
 
 ## Sprint 1 (Research & Prototyping)
 
-- 30 days
+- 30 days 
 - Three 10 day sprints
 
 ### 1.1 (Research, data exploration)
